@@ -296,7 +296,6 @@ def name2():
 					pwv.append(frs+'12345')
 					pwv.append(frs+'1234')
 					pwv.append(frs+'786')
-					pwv.append(pakistan+'786')
 					pwv.append(pakistan+'123')
 					pwv.append(123456)
 			if 'mobile' in method:
